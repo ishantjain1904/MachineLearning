@@ -1,3 +1,3 @@
 # MachineLearning
 
-These are the Classification and Regression machine learning algorithms.Each model has a dataset contained with a usecase.
+In this repository i have implement several machine learning algorithms with given problem statement and dataset,gained some useful insights using libraries such as numpy,pandas,matplotlib,seaborn and evaluated metrics according to respective problems
